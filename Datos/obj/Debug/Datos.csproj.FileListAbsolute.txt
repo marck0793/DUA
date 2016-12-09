@@ -1,0 +1,32 @@
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Datos.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Datos.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Entidad.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Entidad.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\obj\Debug\Datos.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\obj\Debug\Datos.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Datos.dll.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Datos.dll.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\bin\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\obj\Debug\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Datos\obj\Debug\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\bin\Debug\Datos.dll.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\bin\Debug\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\bin\Debug\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\bin\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\bin\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\obj\Debug\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Datos\obj\Debug\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\bin\Debug\Datos.dll.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\bin\Debug\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\bin\Debug\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\bin\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\bin\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\obj\Debug\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Datos\obj\Debug\Datos.pdb

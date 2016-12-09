@@ -1,0 +1,14 @@
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\bin\Debug\ProyectoInformes.dacpac
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\bin\Debug\ProyectoInformes.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\bin\Debug\ProyectoInformes.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\obj\Debug\Model.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\obj\Debug\refactor.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\obj\Debug\postdeploy.sql
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\obj\Debug\predeploy.sql
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\obj\Debug\ProyectoInformes.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\ProyectoInformes\obj\Debug\ProyectoInformes.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\ProyectoInformes\bin\Debug\ProyectoInformes.dacpac
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\ProyectoInformes\bin\Debug\ProyectoInformes.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\ProyectoInformes\bin\Debug\ProyectoInformes.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\ProyectoInformes\obj\Debug\ProyectoInformes.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\ProyectoInformes\obj\Debug\ProyectoInformes.pdb

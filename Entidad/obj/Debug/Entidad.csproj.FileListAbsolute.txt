@@ -1,0 +1,19 @@
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\bin\Debug\Entidad.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\bin\Debug\Entidad.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\bin\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\bin\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Entidad\bin\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Entidad\bin\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\Entidad\obj\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Entidad\bin\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Entidad\bin\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Entidad\obj\Debug\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Entidad\obj\Debug\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
