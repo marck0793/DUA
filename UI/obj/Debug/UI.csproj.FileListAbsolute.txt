@@ -1,0 +1,258 @@
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\UI.dll.config
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\UI.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\UI.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Antlr3.Runtime.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\AspNet.ScriptManager.bootstrap.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\AspNet.ScriptManager.jQuery.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Datos.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Entidad.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.SqlServer.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Google.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.ScriptManager.WebForms.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Web.Infrastructure.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Newtonsoft.Json.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Owin.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\System.Web.Optimization.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\System.Web.Providers.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\WebGrease.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Datos.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Entidad.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\System.Web.Optimization.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Antlr3.Runtime.pdb
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Newtonsoft.Json.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.SqlServer.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Google.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\obj\Debug\UI.dll
+E:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\obj\Debug\UI.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\UI.dll.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\UI.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\UI.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Antlr3.Runtime.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\AspNet.ScriptManager.jQuery.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.SqlServer.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Logica.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Google.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Newtonsoft.Json.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\System.Web.Optimization.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\System.Web.Providers.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\WebGrease.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Logica.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\System.Web.Optimization.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Antlr3.Runtime.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Newtonsoft.Json.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\EntityFramework.SqlServer.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Google.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\obj\Debug\UI.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\UI\obj\Debug\UI.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\UI.dll.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\UI.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\UI.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Antlr3.Runtime.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\AspNet.ScriptManager.jQuery.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\EntityFramework.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\EntityFramework.SqlServer.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Logica.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Google.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Newtonsoft.Json.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\System.Web.Optimization.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\System.Web.Providers.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\WebGrease.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Logica.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\System.Web.Optimization.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Antlr3.Runtime.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Newtonsoft.Json.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\EntityFramework.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\EntityFramework.SqlServer.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Google.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\obj\Debug\RdlCompile.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\obj\Debug\RdlCompile.compiled
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\obj\Debug\UI.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\obj\Debug\UI.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\reportes.exe
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\Microsoft.SqlServer.Types.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\reportes.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo\UI\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\UI.dll.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\UI.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\UI.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Antlr3.Runtime.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\AspNet.ScriptManager.jQuery.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Datos.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Entidad.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\EntityFramework.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\EntityFramework.SqlServer.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Logica.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Google.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Newtonsoft.Json.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Owin.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\reportes.exe
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\System.Web.Optimization.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\System.Web.Providers.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\WebGrease.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.SqlServer.Types.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Datos.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Entidad.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Logica.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\reportes.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\System.Web.Optimization.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Antlr3.Runtime.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Newtonsoft.Json.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\EntityFramework.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\EntityFramework.SqlServer.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Google.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\obj\Debug\RdlCompile.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\obj\Debug\RdlCompile.compiled
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\obj\Debug\UI.dll
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\Proyecto DuaInfo2 buena\ProyectoDuaInfo1\UI\obj\Debug\UI.pdb

@@ -1,0 +1,9 @@
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\bin\Debug\dataSource.exe.config
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\bin\Debug\dataSource.exe
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\bin\Debug\dataSource.pdb
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\obj\Debug\dataSource.csprojResolveAssemblyReference.cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\obj\Debug\dataSource.Form1.resources
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\obj\Debug\dataSource.Properties.Resources.resources
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\obj\Debug\dataSource.csproj.GenerateResource.Cache
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\obj\Debug\dataSource.exe
+D:\subir a dropbox\2-2016\InfoAplicada\ProyectoDuaInfo\ProyectoDuaInfo\dataSource\obj\Debug\dataSource.pdb
